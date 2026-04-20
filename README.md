@@ -1,1 +1,2 @@
-# Final-Project-447-
+# Final-Project-447
+#### This project looks at how different music features affect a song’s popularity on Spotify. We will use data that includes attributes like danceability, energy, and explicit content to find patterns. After cleaning and organizing the data, we will create graphs and charts to see which features are linked to higher popularity. The goal is to understand what makes a song more popular.
