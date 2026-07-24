@@ -86,24 +86,4 @@ The project investigates
 
 ---
 
-## Repository Structure
 
-```
-Spotify-Popularity-Analysis
-│
-├── data
-├── notebooks
-├── images
-├── README.md
-└── requirements.txt
-```
-
----
-
-## Future Improvements
-
-- Include artist popularity
-- Include playlist information
-- Build classification models
-- Compare Random Forest and XGBoost with Linear Regression
-- Predict hit songs
