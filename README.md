@@ -88,7 +88,7 @@ The histograms reveal that different musical characteristics follow different di
 
 
 ## 🔥 Correlation Between Audio Features and Popularity
-<img  width="866" height="500" alt="image" src="https://github.com/user-attachments/assets/f4141f03-23bb-4b59-8771-529b0e2e3955" />
+<img  width="866" height="450" alt="image" src="https://github.com/user-attachments/assets/f4141f03-23bb-4b59-8771-529b0e2e3955" />
 
 ### Key Takeaways
 - No audio feature is a strong predictor of popularity.
@@ -98,7 +98,7 @@ The histograms reveal that different musical characteristics follow different di
 
 ## 🎤 Popularity by Explicit Content
 
-<img  width="866" height="600" alt="image" src="https://github.com/user-attachments/assets/d3a037fe-3b49-41c1-a2b8-49148d27df53" />
+<img  width="866" height="450" alt="image" src="https://github.com/user-attachments/assets/d3a037fe-3b49-41c1-a2b8-49148d27df53" />
 
 
 ### Key Takeaways
