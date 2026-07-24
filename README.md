@@ -78,7 +78,7 @@ The histogram and boxplot show that most Spotify songs have popularity scores be
 ## 🎵 Distribution of Audio Features
 
 The histograms reveal that different musical characteristics follow different distributions.
-<img width="848" height="318" alt="image" src="https://github.com/user-attachments/assets/29fd735c-4f4e-4f98-aded-72fb40285b4e" />
+<img width="848" height="500" alt="image" src="https://github.com/user-attachments/assets/29fd735c-4f4e-4f98-aded-72fb40285b4e" />
 
 
 ### Key Takeaways
@@ -88,7 +88,7 @@ The histograms reveal that different musical characteristics follow different di
 
 
 ## 🔥 Correlation Between Audio Features and Popularity
-<img  width="866" height="276" alt="image" src="https://github.com/user-attachments/assets/f4141f03-23bb-4b59-8771-529b0e2e3955" />
+<img  width="866" height="500" alt="image" src="https://github.com/user-attachments/assets/f4141f03-23bb-4b59-8771-529b0e2e3955" />
 
 ### Key Takeaways
 - No audio feature is a strong predictor of popularity.
